@@ -1,5 +1,9 @@
-### Hi there 👋
+### Welcome
 
+Hi there 👋 \
+😄 Pronouns: she/her/hers \
+🌱 I’m currently learning: contributing to open source \
+📫 How to reach me: twitter @carolineperhaps
 <!--
 **leec94/leec94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
