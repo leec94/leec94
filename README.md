@@ -3,6 +3,7 @@
 Hi there 👋 \
 😄 Pronouns: she/her/hers \
 🌱 I’m currently learning: contributing to open source \
+:parrot: Credit: credit to [@birbber](https://instagram.com/birbber) for the profile pic \
 📫 How to reach me: twitter @carolineperhaps
 <!--
 **leec94/leec94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
