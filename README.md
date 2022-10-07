@@ -2,7 +2,8 @@
 
 Hi there 👋 \
 😄 Pronouns: she/her/hers \
-🌱 I’m currently learning: contributing to open source \
+🌱 Currently learning: contributing to open source \
+:book: Currently reading: Circe by Madeline Miller \
 :parrot: Credit: credit to [@birbber](https://instagram.com/birbber) for the profile pic \
 📫 How to reach me: twitter @carolineperhaps
 <!--
