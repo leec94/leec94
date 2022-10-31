@@ -2,7 +2,7 @@
 
 Hi there 👋 \
 😄 Pronouns: she/her/hers \
-🏃‍♀️I'll be running Boston Marathon 2023 with the Boston Public Library charity team! Help me support the libary here: \
+🏃‍♀️I'll be running Boston Marathon 2023 with the Boston Public Library charity team! Help me support the library here: \
 https://www.givengain.com/ap/caroline-lee-raising-funds-for-boston-public-library/#timeline 
 
 
