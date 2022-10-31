@@ -2,6 +2,10 @@
 
 Hi there 👋 \
 😄 Pronouns: she/her/hers \
+🏃‍♀️I'll be running Boston Marathon 2023 with the Boston Public Library charity team! Help me support the libary here: \
+https://www.givengain.com/ap/caroline-lee-raising-funds-for-boston-public-library/#timeline 
+
+
 🌱 Currently learning: contributing to open source \
 :book: Currently reading: Anxious People by Fredrik Backman \
 :parrot: Credit: credit to [@birbber](https://instagram.com/birbber) for the profile pic \
