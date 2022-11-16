@@ -1,8 +1,5 @@
 ### Welcome
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leec94)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Hi there 👋 \
 😄 Pronouns: she/her/hers \
 🏃‍♀️I'll be running Boston Marathon 2023 with the Boston Public Library charity team! Help me support the library here: \
@@ -13,6 +10,8 @@ https://www.givengain.com/ap/caroline-lee-raising-funds-for-boston-public-librar
 :book: Currently reading: A Long Petal of the Sea by Isabel Allende \
 :parrot: Credit: credit to [@birbber](https://instagram.com/birbber) for the profile pic 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leec94)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **leec94/leec94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
