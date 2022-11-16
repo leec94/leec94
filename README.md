@@ -1,5 +1,8 @@
 ### Welcome
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leec94)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Hi there 👋 \
 😄 Pronouns: she/her/hers \
 🏃‍♀️I'll be running Boston Marathon 2023 with the Boston Public Library charity team! Help me support the library here: \
