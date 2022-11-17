@@ -7,7 +7,7 @@ https://www.givengain.com/ap/caroline-lee-raising-funds-for-boston-public-librar
 
 
 🌱 Currently learning: contributing to open source \
-:book: Currently reading: A Long Petal of the Sea by Isabel Allende \
+:book: Currently reading: Babel by R. F. Kuang \
 :parrot: Credit: credit to [@birbber](https://instagram.com/birbber) for the profile pic 
 
 
