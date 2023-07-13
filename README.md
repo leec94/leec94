@@ -3,7 +3,7 @@
 Hi there 👋 \
 😄 Pronouns: she/her/hers \
 🌱 Currently learning: contributing to open source \
-:book: Currently reading: Lakewood by Megan Giddings \
+:book: Currently reading: Pachinko by Min Jin Lee \
 :parrot: Credit: credit to [@birbber](https://instagram.com/birbber) for the profile pic 
 
 
