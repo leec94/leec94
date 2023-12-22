@@ -3,7 +3,7 @@
 Hi there 👋 \
 😄 Pronouns: she/her/hers \
 🌱 Currently learning: contributing to open source \
-:book: Currently reading: The Only Good Indians by Stephen Graham Jones \
+:book: Currently reading: Eleanor Oliphant is Completely Fine by Gail Honeyman \
 :parrot: Credit: credit to [@birbber](https://instagram.com/birbber) for the profile pic 
 
 
