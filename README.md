@@ -2,8 +2,8 @@
 
 Hi there 👋 \
 😄 Pronouns: she/her/hers \
-🌱 Currently learning: contributing to open source \
-:book: Currently reading: Eleanor Oliphant is Completely Fine by Gail Honeyman \
+🌱 Currently learning: development best practices! \
+:book: Currently reading: Relentless Melt by Jeremy P. Bushnell \
 :parrot: Credit: credit to [@birbber](https://instagram.com/birbber) for the profile pic 
 
 
