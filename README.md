@@ -2,7 +2,7 @@
 
 Hi there 👋 \
 😄 Pronouns: she/her/hers \
-🌱 Currently learning: development best practices! \
+🌱 Currently learning: security+ exam prep 🔐 \
 :book: Currently reading: Relentless Melt by Jeremy P. Bushnell \
 :parrot: Credit: credit to [@birbber](https://instagram.com/birbber) for the profile pic 
 
